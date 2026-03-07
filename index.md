@@ -1,12 +1,25 @@
-# This is an `<h1>` header, which is the largest
-## This is an `<h2>` header
-###### This is an `<h6>` header, which is the smallest
+# Sagar Gupta - Learning Markdown
+
+## About This Exercise
+
+This is my first markdown file for the GitHub Skills course.
+
+### Things I'm Learning
+
+- **Markdown headers** (h1 through h6)
+- _Italic_ and **bold** text formatting
+- Code blocks and syntax highlighting
+- Task lists and checklists
+
+###### Fun fact: Markdown was created by John Gruber in 2004
+
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "GitHub Octocat Logo")
 
+```python
+print("Hello, Markdown!")
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+
+- [x] Created headers
+- [x] Added an image
+- [x] Added a code block
+- [ ] Completed the course
